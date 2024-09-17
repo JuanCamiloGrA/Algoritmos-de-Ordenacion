@@ -8,6 +8,8 @@ Este proyecto implementa y compara varios algoritmos de ordenamiento en Python. 
 - MergeSort
 - QuickSort
 
+> El proyecto también se encuentra disponible en https://replit.com/@juangrisalesari/Algoritmos-de-ordenacion para su ejecución en línea.
+
 ## Estructura del Proyecto
 
 - `main.py`: Archivo principal que ejecuta los algoritmos y guarda los resultados.
