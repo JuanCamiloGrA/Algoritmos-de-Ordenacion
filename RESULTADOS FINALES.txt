@@ -1,0 +1,75 @@
+BURBUJA para 800 elementos:
+  Tiempo de ejecución: 0.05793356895446777 segundos
+  Comparaciones: 639200
+  Intercambios: 161065
+----------------------------------------
+BURBUJA para 8000 elementos:
+  Tiempo de ejecución: 6.648550510406494 segundos
+  Comparaciones: 63992000
+  Intercambios: 15962224
+----------------------------------------
+BURBUJA para 80000 elementos:
+  Tiempo de ejecución: 947.221312046051 segundos
+  Comparaciones: 6399920000
+  Intercambios: 1597905270
+----------------------------------------
+INSERCION para 800 elementos:
+  Tiempo de ejecución: 0.019581317901611328 segundos
+  Comparaciones: 161860
+  Intercambios: 161065
+----------------------------------------
+INSERCION para 8000 elementos:
+  Tiempo de ejecución: 1.980233907699585 segundos
+  Comparaciones: 15970214
+  Intercambios: 15962224
+----------------------------------------
+INSERCION para 80000 elementos:
+  Tiempo de ejecución: 238.81790494918823 segundos
+  Comparaciones: 1597985252
+  Intercambios: 1597905270
+----------------------------------------
+SELECCION para 800 elementos:
+  Tiempo de ejecución: 0.02002096176147461 segundos
+  Comparaciones: 319600
+  Intercambios: 793
+----------------------------------------
+SELECCION para 8000 elementos:
+  Tiempo de ejecución: 2.2697763442993164 segundos
+  Comparaciones: 31996000
+  Intercambios: 7991
+----------------------------------------
+SELECCION para 80000 elementos:
+  Tiempo de ejecución: 233.91829657554626 segundos
+  Comparaciones: 3199960000
+  Intercambios: 79985
+----------------------------------------
+MERGESORT para 800 elementos:
+  Tiempo de ejecución: 0.0036957263946533203 segundos
+  Comparaciones: 6712
+  Intercambios: N/A
+----------------------------------------
+MERGESORT para 8000 elementos:
+  Tiempo de ejecución: 0.04851102828979492 segundos
+  Comparaciones: 93548
+  Intercambios: N/A
+----------------------------------------
+MERGESORT para 80000 elementos:
+  Tiempo de ejecución: 1.2841053009033203 segundos
+  Comparaciones: 1203736
+  Intercambios: N/A
+----------------------------------------
+QUICKSORT para 800 elementos:
+  Tiempo de ejecución: 0.0009989738464355469 segundos
+  Comparaciones: 8276
+  Intercambios: 0
+----------------------------------------
+QUICKSORT para 8000 elementos:
+  Tiempo de ejecución: 0.013997793197631836 segundos
+  Comparaciones: 119884
+  Intercambios: 0
+----------------------------------------
+QUICKSORT para 80000 elementos:
+  Tiempo de ejecución: 0.18037629127502441 segundos
+  Comparaciones: 1545250
+  Intercambios: 0
+----------------------------------------
